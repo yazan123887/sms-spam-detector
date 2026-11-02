@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Downloaded dataset
+dataset/
+spam.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
